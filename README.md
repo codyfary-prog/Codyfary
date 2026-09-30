@@ -3,7 +3,7 @@
 <html>
 
 <head>
-  <title>surfing pictures</title>
+  <title>Surfing Pictures</title>
 </head>
 
 <body>

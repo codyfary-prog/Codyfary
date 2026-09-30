@@ -8,7 +8,7 @@
 
 <body>
   <nav>
-    <a <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWE-iP8inJ-9feI-zrTJJyvEyZ3sAKmdlD3ZzhoeViw&s=10/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWE-iP8inJ-9feI-zrTJJyvEyZ3sAKmdlD3ZzhoeViw&s=10/>
 </a>
     <a </a>
   </nav>

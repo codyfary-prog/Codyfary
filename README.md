@@ -13,7 +13,7 @@
 </section>
 
 <footer>
-    🌴 Surf Paradise © 2026
+    🌴 Surf Paradise 
 </footer>
 
 </body>
